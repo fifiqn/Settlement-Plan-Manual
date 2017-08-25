@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -28,7 +28,7 @@
 
 <h2 style="width: 80%;font-size: 1.6; color: blue;">PgAdmin3</h2>
 <figure>
-  <img src="thJ1YQOA0L.jpg" alt="PgAmdmin logo">
+  <img src="/Settlement_Plan_Manual.zip/img/thJ1YQOA0L.jpg" />
 </figure>
 
 
