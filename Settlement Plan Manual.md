@@ -407,7 +407,7 @@ shapefiles are exactly what you need in order to digitize in Qgis.
 </figure>
 
 <figure>
-  <img src="shapefile.jpg" alt="A picture displaying what a create a new shapefile window looks like ">
+  <img src=![shapefile.png](https://user-images.githubusercontent.com/17254752/29928611-294667de-8e05-11e7-8dc3-c54c88232b08.jpg)alt="A picture displaying what a create a new shapefile window looks like ">
   <figcaption>If it is a polygon you want, you can select it, then enter your name field (it could be something like existing or proposed). Select text data for type in this case.
 click the add to field list button and then ok. your shapefifle will be created and will prompt you to save as. Then, it will be added to the layers panel in Qgis.</figcaption>
 </figure>
